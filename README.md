@@ -5,6 +5,5 @@ Este projeto traz a **interface introdutória** de uma empresa do setor agrário
 ## ⚡ Tecnologias usadas  
 - ⚛ **React.js** para componentes dinâmicos  
 - 🎨 **Styled Components** para estilização  
-- 🔗 **React Router** (se necessário) para navegação  
 
 💡 **Nota:** Este projeto foi desenvolvido independentemente e **não representa oficialmente a empresa**.  

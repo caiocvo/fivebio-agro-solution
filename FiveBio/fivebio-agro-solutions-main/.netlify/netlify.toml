@@ -1,0 +1,30 @@
+plugins = []
+functionsDirectory = "C:\\Users\\seza4\\Downloads\\index\\fivebio-agro-solutions-main\\netlify\\functions"
+functionsDirectoryOrigin = "config-v1"
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\seza4\\Downloads\\index\\fivebio-agro-solutions-main\\dist"
+publishOrigin = "config"
+commandOrigin = "config"
+command = "npm run build"
+functions = "C:\\Users\\seza4\\Downloads\\index\\fivebio-agro-solutions-main\\netlify\\functions"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]

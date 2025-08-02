@@ -1,10 +1,35 @@
-# 🌱 Bioinsumos Agrários - Página Inicial  
+# 🌿 FiveBio – Suplementos e Vida Saudável
 
-Este projeto traz a **interface introdutória** de uma empresa do setor agrário focada em **bioinsumos sustentáveis**. Criado com **React**, ele oferece uma experiência moderna e responsiva para exibir informações sobre **sustentabilidade e inovação na agricultura**.  
+Site institucional desenvolvido para representar uma empresa fictícia do ramo de saúde e bem-estar, com foco em produtos naturais e suplementos.
 
-## ⚡ Tecnologias usadas  
-- ⚛ **React.js** para componentes dinâmicos  
-- 🎨 **Styled Components** para estilização  
+## 🎯 Objetivo
 
-💡 **Nota:** Este projeto foi desenvolvido independentemente e **não representa oficialmente a empresa**.  
-## Site online: https://fivebio.netlify.app/
+Criar uma interface moderna, leve e funcional para apresentar os valores, serviços e produtos da marca **FiveBio**.
+
+## 🔧 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Netlify (deploy)
+- **Lovable (IA)** para apoio
+
+## 📲 Funcionalidades
+
+- Página inicial com apresentação da empresa
+- Seções sobre produtos e objetivos da marca
+- Layout limpo e intuitivo
+
+## 🌐 Link online
+
+👉 [Acesse o site aqui](https://fivebio.netlify.app)
+
+## 💡 Aprendizados
+
+- Organização visual com foco no cliente
+- Criação de site institucional completo
+- Deploy em ambiente real (Netlify)
+- Uso de IA (Lovealable) para auxiliar na documentação e estruturação do projeto
+
+
+

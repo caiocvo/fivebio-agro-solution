@@ -1,6 +1,6 @@
 # 🌿 FiveBio – Suplementos e Vida Saudável
 
-Site institucional desenvolvido para representar uma empresa fictícia do ramo de saúde e bem-estar, com foco em produtos naturais e suplementos.
+Site institucional desenvolvido para representar uma empresa de Consultoria especializada em produção de bioinsumos e manejo sustentável. 
 
 ## 🎯 Objetivo
 
